@@ -1,5 +1,5 @@
 # Iklim-Krizi
 Iklim Krizi şu anda hayatımızda olan en büyük sorunlardan biri ve bazıları kuzye kutpundaki hayvanların tükenmesine sebep oluyor. Iklim Krizini durdurmanin bir sürü yolu vardir ama benim fikirlerim şu:
 
-1. Iklim Krizi ile ilgili bir site yapmak.
-Bu site ozel bir AI kullanarak her haft bütün dünyanın nasıl bir durumda olduğunu söyler, doğuda, batıda, kuzeyde ve güneyde hava durumunun ne kadar şiddetlendi diye gösterir bi dünya haritasında. Eğer birisi hava durumunun hiç olmadığı kadar sidetlendigini farkederse websitedeki bir numara verilcektir ve o numarayi ararak acil durum gurubuna havanın nasil oldugun acikliyabilir.
+1. Iklim Krizi ile ilgili bir önemli bir bot yapmak.
+Bu bot bizim eskiden yatpigimiz html websiteleri gibi olacak ama daha fazla gelismis bir halde. Bu html websitesinde bir discord botu gibi AI botu olacak ve AI botunun yaninda bir hava durumunun nasil oldugunu acikla dugmesi olacak ve oraya hafta boyunca havanin nasil oldugunu acikliyabileceksin ve AI botu'da yazdigina gore iklim krizi olabilir'mi diye söyleyecek. 
